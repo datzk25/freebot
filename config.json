@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": "Bot Cute 🌱 ",
+    "AMDIN_NAME": "Tiến Đạt",
     "keyRent": "Lunar",
     "FACEBOOK_ADMIN": "",
     "PREFIX": ".",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "61574465117045",
         ""
     ],
     "NDH": [
-        "",
+        "61574465117045",
         ""
     ],
     "autoCleanCache": {
